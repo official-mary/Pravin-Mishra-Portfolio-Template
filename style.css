@@ -1124,12 +1124,14 @@ section {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 10px;
-  color: #888;
+  color: #bfbfbf;
   font-size: 14px;
+  line-height:1.6
 }
 
 .footer-bottom span {
   color: #facc15;
+  font-weight: 600;
 }
 
 /* Responsive */
